@@ -14,9 +14,3 @@ The game has three levels. You get:
 * 3 stars - if you end a game in 16 moves
 * 2 stars - if you end a game in 26 moves
 * 1 star - if you end a game in 36 moves
-
-### Install
-
- Open this play in any browser.
-
- If you want to play, click the link here: https://anetbak.github.io/project-memory-game-fend/
